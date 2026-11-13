@@ -8,21 +8,21 @@ O trabalho envolve a definição de uma arquitetura de processador própria, inc
 
 A arquitetura do processador foi projetada e implementada utilizando o Logisim.
 
-![Arquitetura completa](images/DataPath.png)
+![Arquitetura completa](Imagens/DataPath.png)
 
 ## Principais Componentes
 
 ### Banco de Registradores
 
-![Banco de registradores](images/BancoRegistradores.png)
+![Banco de registradores](Imagens/BancoRegistradores.png)
 
 ### Unidade Lógica e Aritmética (ULA)
 
-![ULA](images/Ula.png)
+![ULA](Imagens/Ula.png)
 
 ### Unidade de Controle
 
-![Unidade de controle](images/UnidadeControle.png)
+![Unidade de controle](Imagens/UnidadeControle.png)
 
 ## Montador (Assembler)
 
